@@ -4,4 +4,4 @@
  - igppsl.zip: 1.8r-99 uatools: 2.2r-10
  - mlppsl.zip: 1.0r-19 uatools: 2.2r-32
  - twppsl.zip: 1.2r-72 uatools: 2.2r-20
- - wappsl.zip: 1.6r-88 uatools: 2.2r-20
+ - wappsl.zip: 1.6r-94 uatools: 2.2r-32
